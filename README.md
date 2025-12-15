@@ -7,8 +7,7 @@ This is an end-to-end data analytics application that transforms over **19,000+ 
 
 The goal was simple: move beyond "what happened" and start answering "what is the trend?" using Python-based data engineering.
 
-**[🔴 View Live Dashboard Here](https://share.streamlit.io)** *(Replace this text with your actual Streamlit link after deploying)*
-
+**[🔴 View Live Dashboard Here]([https://share.streamlit.io](https://amazon-sales-dashboard-gtdviz4cd8r73hbjwbjv3z.streamlit.app/))** 
 ---
 
 ### **✨ Key Features**
